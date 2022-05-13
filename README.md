@@ -1,7 +1,6 @@
 # COMP6248 Reproducability Challenge, MiCE
 
-We tried to reproduce the [paper](https://openreview.net/forum?id=gV3wdEOGy_V) "MICE: MIXTURE OF CONTRASTIVE EXPERTS FOR UNSUPERVISED IMAGE CLUSTERING". Using CIFAR-10 dataset we trained and testing two
-different approaches, one baseline unsupervised model named moCo, and the Mixture of Contrastive Experts (MiCE). 
+We attempted to reproduce the results from the [paper](https://openreview.net/forum?id=gV3wdEOGy_V) "MiCE: Mixture of Contrastive Experts for Unsupervised Image clustering". This is based on the unsupervised clustering algorithm MiCE, which uses the unsupervised deep learning algorithm techniques like contrastive learning and deep clusterin. Using CIFAR-10 dataset we trained and testing two different approaches, one baseline unsupervised model named moCo, and the MiCE. 
 
 ## train_MiCE.ipynb
 
